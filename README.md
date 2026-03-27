@@ -1,4 +1,4 @@
-# Gmail Scheduler
+# Gmail Scheduler (archived)
 
 - Forked from [webdigi/GmailScheduler](https://github.com/webdigi/GmailScheduler)
 - See Webdigi's [**intro video**](http://youtu.be/4kfpQVZjFd8)
